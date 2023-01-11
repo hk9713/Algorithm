@@ -4,5 +4,5 @@
 ### Programmers 
 🔥 coding test for beginner_ <https://school.programmers.co.kr/learn/challenges/beginner>
 <br>
-* 2023.01.11 - Day 001
+* 2023.01.11 - Day 001 ~ 002
 
