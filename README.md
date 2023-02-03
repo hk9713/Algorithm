@@ -2,7 +2,7 @@
 알고리즘 문제 풀이 모음
 ## Python🐍
 ### Programmers 
-🔥 <b>Coding test for beginner</b>_ <https://school.programmers.co.kr/learn/challenges/beginner>
+🔥 <b>coding test for beginner</b>_ <https://school.programmers.co.kr/learn/challenges/beginner>
 <br>
 
 <details>
@@ -30,4 +30,5 @@
 </div>
 </details>
 <br>
-🔥 <b>Coding test Lv. 1</b>_ <https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=1&languages=python3>
+🔥 <b>Lv. 1</b>
+<br>
