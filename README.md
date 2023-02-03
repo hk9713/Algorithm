@@ -29,3 +29,5 @@
 
 </div>
 </details>
+<br>
+🔥 <b>Coding test Lv. 1</b>_ <https://school.programmers.co.kr/learn/challenges?order=recent&page=1&levels=1&languages=python3>
