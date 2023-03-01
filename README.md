@@ -29,6 +29,12 @@
 
 </div>
 </details>
+
+1️⃣ <b>코딩테스트 연습 Lv. 1</b>
 <br>
-🔥 <b>Lv. 1</b>
+<br>
+
+## Swift🪶
+### Programmers 
+🌱 <b>코딩테스트 입문</b>
 <br>
